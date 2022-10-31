@@ -1,0 +1,27 @@
+
+body{
+    background-color: #7fffd450;
+}
+
+h1{
+    font-size: 65px;
+    text-align: center;
+    color: black; 
+}
+
+.intro-gif{
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    text-align: center;
+}
+
+.recipe-list{
+    display: inline-block;
+    text-align: left;
+    font-size: 35px;
+}
